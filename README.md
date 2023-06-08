@@ -1,5 +1,8 @@
 # PWC_Virtual_case_Exp
 
+## Task Preview :
+![task_preview](https://github.com/Pranjali-d/PWC_Virtual_case_Exp/assets/49934575/1d041457-771b-4ebf-827e-f2abd101a263)
+
 
 ## Final result :
 
