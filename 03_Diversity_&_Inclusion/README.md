@@ -203,12 +203,11 @@ The purpose of this dashboard is served as self-exploratory for managers, but I 
 
 You can interact and have fun with the dashboard here:
 
-[Microsoft PowerBI](https://app.powerbi.com/view?r=eyJrIjoiM2Y2YzE3ZGQtZTliNi00NzVhLTkxNTktMDQ2YTAzNTY3OWMwIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9&embedImagePlaceholder=true) | [novyPro](https://www.novypro.com/project/diversity--inclusion-|-pwc-virtual-case-experience)
-
-
-[PWC PowerBI cerificate](https://github.com/calmk/Diversity-and-Inclusion-PWC-Virtual-Case-Experience/files/11634359/PWC.PowerBI.pdf)
+[Microsoft PowerBI](https://app.powerbi.com/view?r=eyJrIjoiM2Y2YzE3ZGQtZTliNi00NzVhLTkxNTktMDQ2YTAzNTY3OWMwIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9&embedImagePlaceholder=true) 
 
 
 
-### Huge thanks to you for joining this creation journey with me.  Hope you all are doing great! :pray::pray::pray::relaxed:
+
+
+
 
