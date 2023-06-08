@@ -200,6 +200,6 @@ The purpose of this dashboard is served as self-exploratory for managers, but I 
 # Shareable Link
 You can interact and have fun with the dashboard here:
 
-[Microsoft PowerBI](https://app.powerbi.com/view?r=eyJrIjoiMzkyNDM4N2UtYWU3Yy00ZjM0LTk4YWYtYzY1M2EwY2I4Y2Q2IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9&embedImagePlaceholder=true&pageName=ReportSectione13631e7a8cb93d38b57)  | [novyPro](https://www.novypro.com/project/customer-retention-|-pwc-switzerland-power-bi-virtual-case-experience)
+[Microsoft PowerBI](https://app.powerbi.com/view?r=eyJrIjoiMzkyNDM4N2UtYWU3Yy00ZjM0LTk4YWYtYzY1M2EwY2I4Y2Q2IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9&embedImagePlaceholder=true&pageName=ReportSectione13631e7a8cb93d38b57)  
 
-### Huge thanks to you for joining this creation journey with me.  Hope you all are doing great! :pray::pray::pray::relaxed:
+
