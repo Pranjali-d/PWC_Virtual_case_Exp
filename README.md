@@ -1,30 +1,28 @@
 # PWC_Virtual_case_Exp
 
 
-## Final result 
+## Final result :
 
 #### Call Center Solution
 
 -------
- <img src="https://github.com/notramm/PwC-PowerBI-in-Data-Analytics/blob/master/Screenshots/Call%20Center%20Solution.png" width="800" class="center">
+ ![call centre](https://github.com/Pranjali-d/PWC_Virtual_case_Exp/assets/49934575/29f36c44-23d1-4ee8-8346-c8f20f6ab409)
+
  
  #### Customer Retention
  
  -----------
  
-  <img src="https://github.com/notramm/PwC-PowerBI-in-Data-Analytics/blob/master/Screenshots/Churn-Customer%20Retention.png" width="800" class="center">
-  
-  <img src="https://github.com/notramm/PwC-PowerBI-in-Data-Analytics/blob/master/Screenshots/Customer-Risk-Analysis.png" width="800" class="center">
+  ![customer retention](https://github.com/Pranjali-d/PWC_Virtual_case_Exp/assets/49934575/ff0e15ee-e1fe-4f04-84e4-925a163f971f)
+
   
   #### Diversity & Inclusion
  
  -----------
- 
-  <img src="https://github.com/notramm/PwC-PowerBI-in-Data-Analytics/blob/master/Screenshots/Diversity%20%26%20Inclusion-1.png" width="800" class="center">
-  
-  <img src="https://github.com/notramm/PwC-PowerBI-in-Data-Analytics/blob/master/Screenshots/Diversity%20%26%20Inclusion-2.png" width="800" class="center">
+ ![diversity and inclusion](https://github.com/Pranjali-d/PWC_Virtual_case_Exp/assets/49934575/d684cfaa-0baa-42e2-a206-9e7600fe0003)
 
-### Key Larnings
+
+### Key Larnings :
 1. Learnt about what real business data sets look like.
 2. Learnt about Visualising customer and agent behaviour.
     >Defining KPIs >Power BI Dashboard
@@ -35,5 +33,5 @@
 
 
 
-### Reference
+### Reference :
 - [Forage - PwC Switzerland Power BI in Data Analytics Virtual Case Experience](https://www.theforage.com/virtual-internships/prototype/a87GpgE6tiku7q3gu/Power%20BI%20in%20Data%20Analytics?ref=zYi2CnpbWjhcS7sAk)
