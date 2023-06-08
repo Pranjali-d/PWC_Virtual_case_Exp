@@ -7,7 +7,7 @@
 ## Final result :
 
 #### Call Center Solution
-
+##### [For detailed Analysis :](https://github.com/Pranjali-d/PWC_Virtual_case_Exp/tree/main/01_Call_centre_trends)
 -------
  ![call centre](https://github.com/Pranjali-d/PWC_Virtual_case_Exp/assets/49934575/29f36c44-23d1-4ee8-8346-c8f20f6ab409)
 
