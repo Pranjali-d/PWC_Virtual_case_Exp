@@ -13,14 +13,14 @@
 
  
  #### Customer Retention
- 
+ ##### [For detailed Analysis :](https://github.com/Pranjali-d/PWC_Virtual_case_Exp/tree/main/02_Customer%20retention)
  -----------
  
   ![customer retention](https://github.com/Pranjali-d/PWC_Virtual_case_Exp/assets/49934575/ff0e15ee-e1fe-4f04-84e4-925a163f971f)
 
   
   #### Diversity & Inclusion
- 
+  ##### [For detailed Analysis :](https://github.com/Pranjali-d/PWC_Virtual_case_Exp/tree/main/03_Diversity_%26_Inclusion)
  -----------
  ![diversity and inclusion](https://github.com/Pranjali-d/PWC_Virtual_case_Exp/assets/49934575/d684cfaa-0baa-42e2-a206-9e7600fe0003)
 
