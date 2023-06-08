@@ -1,4 +1,6 @@
-# PWC_Virtual_case_Exp
+# PWC Data Analytics Virtual Case Experience 
+
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ## Task Preview :
 ![task_preview](https://github.com/Pranjali-d/PWC_Virtual_case_Exp/assets/49934575/1d041457-771b-4ebf-827e-f2abd101a263)
