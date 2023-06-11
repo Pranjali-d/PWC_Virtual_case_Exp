@@ -1,13 +1,6 @@
 # Customer Retention | Pwc Switzerland Power BI Virtual Case Experience
 ![background](https://user-images.githubusercontent.com/100661121/234232235-7a620f8e-e6e4-4385-8051-5fd6cfd52828.png)
-## Table of contents
-- [Problem Statement](https://github.com/calmk/Customer-Retention-PWC-Virtual-Case-Experience#Problem-Statement)
-- [Data Sourcing](https://github.com/calmk/Customer-Retention-PWC-Virtual-Case-Experience#Data-Sourcing)
-- [Data Preparation](https://github.com/calmk/Customer-Retention-PWC-Virtual-Case-Experience#Data-Preparation)
-- [Data Modeling](https://github.com/calmk/Customer-Retention-PWC-Virtual-Case-Experience#Data-Modeling)
-- [Data Visualization](https://github.com/calmk/Customer-Retention-PWC-Virtual-Case-Experience#Data-Visualization)
-- [Analysis and Insights](https://github.com/calmk/Customer-Retention-PWC-Virtual-Case-Experience#Analysis-and-Insights)
-- [Shareable Link](https://github.com/calmk/Customer-Retention-PWC-Virtual-Case-Experience#Shareable-Link)
+
 
 # Problem Statement
 
@@ -200,6 +193,6 @@ The purpose of this dashboard is served as self-exploratory for managers, but I 
 # Shareable Link
 You can interact and have fun with the dashboard here:
 
-[Microsoft PowerBI](https://app.powerbi.com/view?r=eyJrIjoiMzkyNDM4N2UtYWU3Yy00ZjM0LTk4YWYtYzY1M2EwY2I4Y2Q2IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9&embedImagePlaceholder=true&pageName=ReportSectione13631e7a8cb93d38b57)  
+[Microsoft PowerBI](https://app.powerbi.com/view?r=eyJrIjoiMzkyNDM4N2UtYWU3Yy00ZjM0LTk4YWYtYzY1M2EwY2I4Y2Q2IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9&embedImagePlaceholder=true&pageName=ReportSectione13631e7a8cb93d38b57p)  
 
 
