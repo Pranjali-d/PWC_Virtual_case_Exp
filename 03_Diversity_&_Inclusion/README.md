@@ -3,14 +3,8 @@
 ![Cover](https://github.com/calmk/Diversity-and-Inclusion-PWC-Virtual-Case-Experience/assets/100661121/28f2beff-1a39-43a9-afe4-a729035b70ad)
 
 
-## Table of contents
-- [Problem Statement](https://github.com/calmk/Diversity-and-Inclusion-PWC-Virtual-Case-Experience#Problem-Statement)
-- [Data Sourcing](https://github.com/calmk/Diversity-and-Inclusion-PWC-Virtual-Case-Experience#Data-Sourcing)
-- [Data Preparation](https://github.com/calmk/Diversity-and-Inclusion-PWC-Virtual-Case-Experience#Data-Preparation)
-- [Data Modeling](https://github.com/calmk/Diversity-and-Inclusion-PWC-Virtual-Case-Experience#Data-Modeling)
-- [Data Visualization](https://github.com/calmk/Diversity-and-Inclusion-PWC-Virtual-Case-Experience#Data-Visualization)
-- [Analysis and Insights](https://github.com/calmk/Diversity-and-Inclusion-PWC-Virtual-Case-Experience#Analysis-and-Insights)
-- [Shareable Link](https://github.com/calmk/Diversity-and-Inclusion-PWC-Virtual-Case-Experience#Shareable-Link)
+
+
 
 # Problem Statement
 
@@ -203,7 +197,7 @@ The purpose of this dashboard is served as self-exploratory for managers, but I 
 
 You can interact and have fun with the dashboard here:
 
-[Microsoft PowerBI](https://app.powerbi.com/view?r=eyJrIjoiM2Y2YzE3ZGQtZTliNi00NzVhLTkxNTktMDQ2YTAzNTY3OWMwIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9&embedImagePlaceholder=true) 
+[Microsoft PowerBI](https://app.powerbi.com/view?r=eyJrIjoiM2Y2YzE3ZGQtZTliNi00NzVhLTkxNTktMDQ2YTAzNTY3OWMwIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9&embedImagePlaceholder=truep) 
 
 
 
