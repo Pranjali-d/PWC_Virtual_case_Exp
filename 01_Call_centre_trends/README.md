@@ -2,18 +2,6 @@
 ![Cover for github](https://user-images.githubusercontent.com/100661121/233259968-0c733411-1ce8-467b-ad94-a66a09e58bd8.png)
 
 
-
-
-## Table of contents
-- [Problem Statement](https://github.com/calmk/Call-Center-Trends-PWC-Virtual-Case-Experience#Table-of-content)
-- [Data Sourcing](https://github.com/calmk/Call-Center-Trends-PWC-Virtual-Case-Experience#Data-Sourcing)
-- [Data Preparation](https://github.com/calmk/Call-Center-Trends-PWC-Virtual-Case-Experience#Data-Preparation)
-- [Data Modeling](https://github.com/calmk/Call-Center-Trends-PWC-Virtual-Case-Experience#Data-Modeling)
-- [Data Visualization](https://github.com/calmk/Call-Center-Trends-PWC-Virtual-Case-Experience#Data-Visualization)
-- [Analysis and Insights](https://github.com/calmk/Call-Center-Trends-PWC-Virtual-Case-Experience#Analysis-and-Insights)
-- [Shareable Link](https://github.com/calmk/Call-Center-Trends-PWC-Virtual-Case-Experience#Shareable-Link)
-
-
 # Problem Statement
 
 - **Problem:** The manager at PhoneNow (a big telecom company) is looking for transparency and insight into the Call Center dataset to gain an accurate overview of long-term trends in customer and agent behaviour.
@@ -88,7 +76,9 @@ For the dataset, we want to transform the satisfaction rating from number to tex
 After the dataset was cleaned and transformed, it was ready to be modeled, but the dataset is just included one table, so the Data Modeling is nothing much to modify
 
 # Data Visualization
-![dashboard github](https://user-images.githubusercontent.com/100661121/233076182-dedd0efc-5704-4886-b4d0-b80a841e9773.png)
+![233076182-dedd0efc-5704-4886-b4d0-b80a841e9773](https://github.com/Pranjali-d/PWC_Virtual_case_Exp/assets/49934575/0e8a843b-ca16-4b23-a012-1a4a09a1c83f)
+
+
 
 
 Data visualization for the datasets was done in Microsoft Power BI Desktop and design in PowerPoint, the dashboard includes:
