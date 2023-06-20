@@ -20,7 +20,7 @@
 
 # Data Sourcing
 
-The Dataset used for this analysis was provided by [Pwc Switzerland](https://www.pwc.ch/en/careers-with-pwc/students/virtual-case-experience.html) and available at here: [Call Center Dataset](https://github.com/calmk/Call-Center-Trends-PWC-Virtual-Case-Experience/blob/main/01%20Call-Center-Dataset.xlsx)
+The Dataset used for this analysis was provided by [Pwc Switzerland](https://www.pwc.ch/en/careers-with-pwc/students/virtual-case-experience.html)
 
 # Data Preparation
 
