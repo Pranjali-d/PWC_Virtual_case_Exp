@@ -17,7 +17,7 @@
    
 # Data Sourcing
 
-The dataset used for this analysis was provided by [Pwc Switzerland](https://www.pwc.ch/en/careers-with-pwc/students/virtual-case-experience.html) and available at here: [Diversity & Inclusion](https://github.com/calmk/Diversity-and-Inclusion-PWC-Virtual-Case-Experience/blob/main/03%20Diversity-Inclusion-Dataset.xlsx)
+The dataset used for this analysis was provided by [Pwc Switzerland](https://www.pwc.ch/en/careers-with-pwc/students/virtual-case-experience.html)
 
 # Data Preparation
 
