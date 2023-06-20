@@ -14,7 +14,7 @@
 
 # Data Sourcing
 
-The dataset used for this analysis was provided by [Pwc Switzerland](https://www.pwc.ch/en/careers-with-pwc/students/virtual-case-experience.html) and available at here: [Churn Dataset](https://github.com/calmk/Customer-Retention-PWC-Virtual-Case-Experience/blob/main/02%20Churn-Dataset.xlsx)
+The dataset used for this analysis was provided by [Pwc Switzerland](https://www.pwc.ch/en/careers-with-pwc/students/virtual-case-experience.html)
 
 # Data Preparation
 
